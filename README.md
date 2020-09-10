@@ -1,4 +1,4 @@
-### I really like this new Bio Readme 😄
+### Hey there, im Vali a coder/journalist from Germany 😄
 
 <!--
 **vali101/vali101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
