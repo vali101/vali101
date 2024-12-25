@@ -1,4 +1,4 @@
-## Hey there, i am Vali a coder from Germany 😄
+## Hey there, I am Vali a coder from Germany 😄
 
 ### [Telescrape](https://github.com/PeterWalchhofer/Telescrape)
 This Telegram scraper collects telegram messages, comments (comments.bot/comments.app) and media files. It was originally build for this [story](https://www.addendum.org/news/telegram-netzwerk-sellner/) on behalf of [Addendum](https://addendum.org).
